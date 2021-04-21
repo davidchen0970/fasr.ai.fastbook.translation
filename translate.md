@@ -18,4 +18,13 @@
 ### A lot of people assume that you need all kinds of hard-to-find stuff to get great results with deep learning, but as you'll see in this book, those people are wrong. 
   ###### X)       很多人認為要有絕佳的深度學習解果需要有很多難以捉摸的技巧，但如果你看過這本書，你將會知道這個想法是錯的
   #### google)  許多人認為您需要各種難以找到的東西才能通過深度學習獲得出色的結果，但是正如您將在本書中看到的那樣，這些人是錯誤的。
-
+      asciidoc
+      [[myths]]
+      .What you don't need to do deep learning
+      [options="header"]
+      |======
+      | Myth (don't need) | Truth
+      | Lots of math | Just high school math is sufficient
+      | Lots of data | We've seen record-breaking results with <50 items of data
+      | Lots of expensive computers | You can get what you need for state of the art work for free
+      |======
